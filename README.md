@@ -42,27 +42,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 1. go to https://portal.azure.com/#home and create an account if necessary <br/>
 <br/>
-2. Click "Virtual machines"
+2. Click "Virtual machines".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/6cd5c419-70f4-4157-ac6e-57105c9f25f1/screenshot.jpeg?tl_px=577,0&br_px=1437,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,203)
 
 
-3\. Click "Create"
+3\. Click "+ Create".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/2744cd7b-3dd8-4c5d-b911-becddb2563af/screenshot.jpeg?tl_px=0,0&br_px=859,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=47,195)
 
 
-4\. Click "Virtual Machine"
+4\. Click "Azure Virtual Machine"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/ec569a94-5b31-4ee5-b7d6-1151bcfb343b/screenshot.jpeg?tl_px=0,28&br_px=859,509&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=56,212)
 
 
-5\. Create a resource group, if necessary
+5\. Create a resource group, if needed.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/92eca998-d9ed-4a0c-978e-0b7e3be5c714/screenshot.jpeg?tl_px=0,338&br_px=859,819&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=272,212)
 
 
-6\. Name your resource group
+6\.Create a Name for your resource group
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/50b1d061-91d5-4e3d-a598-9afbff20e77c/screenshot.jpeg?tl_px=0,98&br_px=1719,1059&force_format=png&width=1120.0)
 
@@ -87,7 +87,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/0caef4dd-13d2-46ef-9212-88f5b1df8f7d/screenshot.jpeg?tl_px=0,479&br_px=859,960&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=374,212)
 
 
-11\. Click no redundancy (Keep the redundancy if you need it for your operation)
+11\. Click no redundancy (Keep the redundancy if your Agency requires it)
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/1014dc78-9389-41cf-8cf7-5c7961f8579a/screenshot.jpeg?tl_px=0,515&br_px=859,996&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=359,212)
 
