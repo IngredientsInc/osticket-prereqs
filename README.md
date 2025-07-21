@@ -194,8 +194,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Enabling IIS</h2>
 
 29\. Open control panel
-<p align="cleft">
-<img src="[https://imgur.com/a/F8CKQSL" alt="Control panel"/>
+<p>
+	<img src="https://i.imgur.com/0bEE7DW.png" height="75%" width="100%" alt="Windows Virutal Machine"/>
 </p>
 
 30\. Go to programs
