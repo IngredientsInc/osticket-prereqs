@@ -194,9 +194,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Enabling IIS</h2>
 
 29\. Open control panel
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/F8CKQSL" data-context="false" ><a href="//imgur.com/a/F8CKQSL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<p align="cleft">
+<img src="[https://imgur.com/a/F8CKQSL" alt="Control panel"/>
+</p>
 
 30\. Go to programs
 
