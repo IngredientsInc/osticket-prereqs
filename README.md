@@ -279,9 +279,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 46\. Create a new folder named "PHP"
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/1e614b12-8886-4a9b-8920-1826c065808d/screenshot.jpeg?tl_px=393,437&br_px=2113,1398&force_format=png&width=1120.0)
-
-47. In a new tab, open the [Prerequisite Files Download Folder](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-<br />
 <br/>
 48. Download and install PHPManagerForIIS_V1.5.0.msi <br />
 <br/>
