@@ -195,7 +195,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 29\. Open control panel
 
-![](https://gyazo.com/1f6838975ba0261906b8525ca8d49f83)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/F8CKQSL" data-context="false" ><a href="//imgur.com/a/F8CKQSL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 30\. Go to programs
