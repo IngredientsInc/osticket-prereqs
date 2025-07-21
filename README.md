@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -    HeidiSQL (https://www.heidisql.com/download.php)
   <br/>
   <br/>
-<h2>High Level Steps we Will Cover</h2>
+<h2>High Level Steps We Will Cover</h2>
 
 - Create a VM in Azure
 - Enable IIS
@@ -261,11 +261,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-43\. To make sure IIS is working, go to a browser and type "127.0.0.1". If it shows a blue page and does not return an error it worked!
+43\. To make sure IIS is working, go to a browser and type "127.0.0.1". If it shows a blue page and does not return an error then you will know you’ve succeeded.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/d35a95d6-50a1-43cb-b0dc-1793a0479a2c/screenshot.jpeg?tl_px=0,0&br_px=1719,961&force_format=png&width=1120.0)
 
-<h2>Installing prerequisites</h2>
+<h2>Installing Prerequisites</h2>
 
 44\. Open File Explorer
 
@@ -396,7 +396,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/fa2734d7-dbb8-47f4-b059-5beca0c161f4/screenshot.jpeg?tl_px=1524,90&br_px=2384,571&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
-75\. Refrecsh the browser window with osTicket and everything is enabled.
+75\. Refresh the browser window with osTicket and everything is enabled.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/653741af-7dec-4ad7-83b7-64e8d3d521aa/screenshot.jpeg?tl_px=465,313&br_px=1325,794&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
@@ -452,7 +452,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/db6276ba-957f-411c-859b-37d279932182/screenshot.jpeg?tl_px=716,256&br_px=1576,737&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
-87\. Agree to terms and continue through, and make sure it launches heidisql after install and click finsh
+87\. Agree to terms and continue through, and make sure it launches heidisql after install and click finish
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/cdf330d4-ad72-4672-863b-b621783a6570/screenshot.jpeg?tl_px=999,665&br_px=1859,1146&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
@@ -500,6 +500,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 96\. If everything went well, you should see this screen and osTicket is installed!
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/990627da-962f-4083-8cb0-cdd350b07fcc/screenshot.jpeg?tl_px=359,0&br_px=1219,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,-19)
+
 
 
 
