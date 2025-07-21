@@ -205,23 +205,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 31\. Go to programs and features
+<p>
+	<img src="https://i.imgur.com/0Pbdrwn.png" height="75%" width="100%" alt="Windows Virutal Machine"/>
+</p>
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/f9ef2018-b978-498b-aae8-99054f814d88/screenshot.jpeg?tl_px=514,186&br_px=1374,667&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
 32\. Click Turn Windows features on or off
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/68fca3c8-e07b-495f-b885-fed0cd2af3aa/screenshot.jpeg?tl_px=280,234&br_px=1140,715&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
+<p>
+	<img src="https://i.imgur.com/WPcV9YW.png" height="75%" width="100%" alt="Windows Virutal Machine"/>
+</p>
 
 33\. Enable Internet Information Services (IIS)
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/ece000eb-0c94-4f72-a4fa-464b60981767/screenshot.jpeg?tl_px=370,378&br_px=1230,859&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
+<p>
+	<img src="https://i.imgur.com/dUEJ617.png" height="75%" width="100%" alt="Windows Virutal Machine"/>
+</p>
 
-
-34\. Expand IIS
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/829f66b9-0368-46c9-8d6a-786a0c5ad833/screenshot.jpeg?tl_px=377,377&br_px=1237,858&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
-
+34\. Expand IIS 
+<p>
+	<img src="https://i.imgur.com/pUVoa6o.png" height="75%" width="100%" alt="Windows Virutal Machine"/>
+</p>
 
 35\. Expand Web Management Tools
 
