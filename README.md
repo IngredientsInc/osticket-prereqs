@@ -195,7 +195,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 29\. Open control panel
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/645eced8-2152-4b85-a191-521f73096c46/screenshot.jpeg?tl_px=690,168&br_px=1550,649&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
+![](https://gyazo.com/1f6838975ba0261906b8525ca8d49f83)
 
 
 30\. Go to programs
