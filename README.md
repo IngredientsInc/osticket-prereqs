@@ -15,7 +15,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (22H2)
 <br/>
-<br/>
 <h2> List of Prerequisites </h2> 
 
 -   PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10)
