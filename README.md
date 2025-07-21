@@ -200,8 +200,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 30\. Go to programs
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/fd835a0b-21f5-42ee-9d25-065309f99842/screenshot.jpeg?tl_px=478,431&br_px=1338,912&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
-
+<p>
+	<img src="https://i.imgur.com/ksbMKrA.png" height="75%" width="100%" alt="Windows Virutal Machine"/>
+</p>
 
 31\. Go to programs and features
 
