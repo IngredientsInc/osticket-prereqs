@@ -158,7 +158,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/c8abbc17-0be3-42ad-b2b4-d643b6548330/screenshot.jpeg?tl_px=376,243&br_px=1236,724&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
-22\. Click on the VM
+22\. Click on the Virtual Machine
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/fa4544c0-6706-4dee-b7b6-b252b1ed8626/screenshot.jpeg?tl_px=0,337&br_px=859,818&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=353,212)
 
@@ -168,7 +168,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/5529ab44-ce88-47c3-a50f-fd359e28f2b2/screenshot.jpeg?tl_px=1220,127&br_px=2080,608&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=402,212)
 
 
-24\. Type "rdp"
+24\. Type "Remote Desktop"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-02/e505645c-75fb-477b-bcf7-da53acf76495/screenshot.jpeg?tl_px=0,478&br_px=1719,1440&force_format=png&width=1120.0)
 
