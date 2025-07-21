@@ -14,16 +14,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (22H2)
+<br/>
+<br/>
+<h2> List of Prerequisites </h2> 
 
-<h2>High level steps</h2>
+-   PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10)
+-   Rewrite Module (rewrite_amd64_en-US.msi)(https://www.iis.net/downloads/microsoft/url-rewrite)
+-   PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)
+-   VC_redist.x86.exe (https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+-    MySQL 5.5.62 (mysql-5.5.62-win32.msi) (https://downloads.mysql.com/archives/community/)
+-    HeidiSQL (https://www.heidisql.com/download.php)
+  <br/>
+  <br/>
+<h2>High Level Steps we Will Cover</h2>
 
-- ### [Download prerequisites and dependencies](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 - Create a VM in Azure
 - Enable IIS
 - Enable IIS management Console
 - Enable World Wide Web Services
 - Enable CGI
-- Enabke Common HTTP features
+- Enable Common HTTP features
 - Use PHP manager to edit the webserver
 - Install dependencies from the list
 - Create a mySQL database
